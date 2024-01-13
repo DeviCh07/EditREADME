@@ -1,7 +1,7 @@
 # EditREADME
 
-##Heading 2
+## Heading 2
 
-####Headind 4
+#### Headind 4
 
-######Heading 6
+###### Heading 6
